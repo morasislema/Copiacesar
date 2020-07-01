@@ -16,6 +16,7 @@ namespace WebMartes
             CreateHostBuilder(args).Build().Run();
         }
 
+        //Cambios Sprint2
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
