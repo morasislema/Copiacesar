@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IeQM68iHMpmcTpl07RotzLV+ScLT8wVx2NnikQHrs7kQw0r0/ET6LovQv5VL/8aHlg2b8QF/M5iFUM2L9LmDJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CESAR\\source\\repos\\CursoVersionamiento\\WebMartes\\WebMartes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CESAR\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
