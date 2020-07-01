@@ -16,6 +16,7 @@ namespace WebMartes
             CreateHostBuilder(args).Build().Run();
         }
 
+        //Cambio Conflictivo
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
